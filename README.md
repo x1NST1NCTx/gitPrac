@@ -1,1 +1,2 @@
 # gitPrac
+Trying out git
